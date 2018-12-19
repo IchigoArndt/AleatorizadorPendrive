@@ -1,0 +1,10 @@
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.exe.config
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.exe
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.pdb
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csprojAssemblyReference.cache
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.Principal.resources
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.Properties.Resources.resources
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.GenerateResource.cache
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.exe
+C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.pdb
