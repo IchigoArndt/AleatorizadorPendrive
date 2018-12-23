@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TelaAleatorizador.Infra\TelaAleatorizador.Infra.csproj">
+      <Project>{70C8492F-17F5-4E48-B3A0-3D06D1197756}</Project>
+      <Name>TelaAleatorizador.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\bin\Debug\TelaAleatorizador.Infra.dll
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\bin\Debug\TelaAleatorizador.Infra.pdb
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\obj\Debug\TelaAleatorizador.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\obj\Debug\TelaAleatorizador.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\obj\Debug\TelaAleatorizador.Infra.dll
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Infra\obj\Debug\TelaAleatorizador.Infra.pdb

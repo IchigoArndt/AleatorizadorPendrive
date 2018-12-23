@@ -36,6 +36,8 @@
             this.txtQtd = new System.Windows.Forms.TextBox();
             this.btnValidar = new System.Windows.Forms.Button();
             this.btnIniciar = new System.Windows.Forms.Button();
+            this.btnEntrada = new System.Windows.Forms.Button();
+            this.btnSaida = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -89,7 +91,7 @@
             // 
             // btnValidar
             // 
-            this.btnValidar.Location = new System.Drawing.Point(16, 171);
+            this.btnValidar.Location = new System.Drawing.Point(107, 171);
             this.btnValidar.Name = "btnValidar";
             this.btnValidar.Size = new System.Drawing.Size(107, 23);
             this.btnValidar.TabIndex = 6;
@@ -99,18 +101,41 @@
             // 
             // btnIniciar
             // 
-            this.btnIniciar.Location = new System.Drawing.Point(187, 171);
+            this.btnIniciar.Location = new System.Drawing.Point(278, 171);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(75, 23);
             this.btnIniciar.TabIndex = 7;
             this.btnIniciar.Text = "Iniciar";
             this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.Click += new System.EventHandler(this.btnIniciar_Click);
+            // 
+            // btnEntrada
+            // 
+            this.btnEntrada.Location = new System.Drawing.Point(278, 26);
+            this.btnEntrada.Name = "btnEntrada";
+            this.btnEntrada.Size = new System.Drawing.Size(75, 23);
+            this.btnEntrada.TabIndex = 8;
+            this.btnEntrada.Text = "Procurar";
+            this.btnEntrada.UseVisualStyleBackColor = true;
+            this.btnEntrada.Click += new System.EventHandler(this.btnEntrada_Click);
+            // 
+            // btnSaida
+            // 
+            this.btnSaida.Location = new System.Drawing.Point(278, 133);
+            this.btnSaida.Name = "btnSaida";
+            this.btnSaida.Size = new System.Drawing.Size(75, 23);
+            this.btnSaida.TabIndex = 10;
+            this.btnSaida.Text = "Procurar";
+            this.btnSaida.UseVisualStyleBackColor = true;
+            this.btnSaida.Click += new System.EventHandler(this.btnSaida_Click);
             // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(296, 219);
+            this.ClientSize = new System.Drawing.Size(361, 219);
+            this.Controls.Add(this.btnSaida);
+            this.Controls.Add(this.btnEntrada);
             this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.btnValidar);
             this.Controls.Add(this.txtQtd);
@@ -136,6 +161,8 @@
         private System.Windows.Forms.TextBox txtQtd;
         private System.Windows.Forms.Button btnValidar;
         private System.Windows.Forms.Button btnIniciar;
+        private System.Windows.Forms.Button btnEntrada;
+        private System.Windows.Forms.Button btnSaida;
     }
 }
 

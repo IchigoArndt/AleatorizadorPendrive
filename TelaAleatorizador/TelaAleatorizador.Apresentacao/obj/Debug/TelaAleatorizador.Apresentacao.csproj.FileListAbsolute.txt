@@ -8,3 +8,16 @@ C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj
 C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.CoreCompileInputs.cache
 C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.exe
 C:\Users\luiz.costa\Desktop\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.pdb
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.exe.config
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.exe
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Apresentacao.pdb
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.Principal.resources
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.Properties.Resources.resources
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.GenerateResource.cache
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.exe
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.pdb
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Infra.dll
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\bin\Debug\TelaAleatorizador.Infra.pdb
+C:\Users\Luiz Arndt\Desktop\AleatorizadorPendrive-master\TelaAleatorizador\TelaAleatorizador.Apresentacao\obj\Debug\TelaAleatorizador.Apresentacao.csproj.CopyComplete
